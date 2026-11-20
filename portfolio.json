@@ -1,0 +1,194 @@
+{
+  "profile": {
+    "name": "Parham Janjan",
+    "role": "AI Developer & Full-Stack Engineer",
+    "location": "Available for collaboration worldwide",
+    "tagline": "Building intelligent systems and digital experiences.",
+    "intro": "I’m an AI-focused developer who enjoys turning complex ideas into useful, thoughtfully designed software. My work spans machine learning, natural language processing, full-stack development, and real-time web applications.",
+    "about": [
+      "I’m interested in the practical side of artificial intelligence: understanding data, building useful models, and integrating intelligent capabilities into real products.",
+      "Alongside AI and machine learning, I build full-stack applications and interactive web experiences. I value experimentation, clean implementation, and learning by shipping real projects."
+    ],
+    "email": "",
+    "github": "https://github.com/parhamjanjan",
+    "linkedin": "",
+    "resumeUrl": ""
+  },
+  "skills": [
+    {
+      "group": "Programming Languages",
+      "items": [
+        "Python",
+        "C++",
+        "C#",
+        "JavaScript"
+      ]
+    },
+    {
+      "group": "AI & Machine Learning",
+      "items": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "BGE-M3",
+        "BM25"
+      ]
+    },
+    {
+      "group": "Web Development",
+      "items": [
+        "Django",
+        "Django REST Framework",
+        "Vue.js",
+        ".NET Framework",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "group": "Systems & Hardware",
+      "items": [
+        "Kali Linux",
+        "Arduino",
+        "WebRTC",
+        "Socket.IO"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hesabgar",
+      "category": "AI-powered platform",
+      "description": "A messaging platform combined with a suite of digital tools and online examination features, with AI-powered capabilities.",
+      "details": "Designed as a multi-purpose digital platform that brings communication, learning tools, and online assessments together.",
+      "tags": [
+        "AI",
+        "Messaging",
+        "Online Exams",
+        "Web Application"
+      ],
+      "demo": "",
+      "github": "",
+      "featured": true,
+      "accent": "violet",
+      "status": "In development"
+    },
+    {
+      "name": "Sentiment Analysis",
+      "category": "Natural Language Processing",
+      "description": "A text analysis project focused on identifying sentiment and extracting useful signals from written content.",
+      "details": "Explores NLP workflows for turning unstructured text into interpretable sentiment insights.",
+      "tags": [
+        "Python",
+        "NLP",
+        "Machine Learning",
+        "Text Classification"
+      ],
+      "demo": "",
+      "github": "",
+      "featured": true,
+      "accent": "cyan",
+      "status": "Project"
+    },
+    {
+      "name": "Topic Modeling for Tickets",
+      "category": "NLP · Information Retrieval",
+      "description": "An intelligent approach to discovering recurring themes and patterns across customer support tickets.",
+      "details": "Combines semantic representations with lexical retrieval techniques, including BGE-M3 embeddings and BM25, to support ticket exploration and categorization.",
+      "tags": [
+        "BGE-M3",
+        "BM25",
+        "Topic Modeling",
+        "Python",
+        "NLP"
+      ],
+      "demo": "",
+      "github": "https://github.com/parhamjanjan",
+      "featured": true,
+      "accent": "orange",
+      "status": "Research project"
+    },
+    {
+      "name": "Tumour Classification",
+      "category": "Machine Learning",
+      "description": "A machine learning project focused on tumour classification.",
+      "details": "A classification-focused project exploring how machine learning can be applied to a medical-data problem. It is a research and software project, not a clinical diagnostic tool.",
+      "tags": [
+        "Machine Learning",
+        "Classification",
+        "Python"
+      ],
+      "demo": "",
+      "github": "",
+      "featured": false,
+      "accent": "rose",
+      "status": "Project"
+    },
+    {
+      "name": "Vida",
+      "category": "Software project",
+      "description": "A project from my development portfolio. More details will be added soon.",
+      "details": "",
+      "tags": [
+        "Software Development"
+      ],
+      "demo": "",
+      "github": "",
+      "featured": false,
+      "accent": "pink",
+      "status": "Details coming soon"
+    },
+    {
+      "name": "Jay Mezone",
+      "category": "E-commerce · Fashion",
+      "description": "A fashion e-commerce concept focused on an elegant storefront and a refined online shopping experience.",
+      "details": "A web development project exploring product presentation, storefront design, and a smooth shopping journey.",
+      "tags": [
+        "Vue.js",
+        "Django",
+        "E-commerce",
+        "UI/UX"
+      ],
+      "demo": "",
+      "github": "",
+      "featured": true,
+      "accent": "gold",
+      "status": "In development"
+    },
+    {
+      "name": "ZEUS",
+      "category": "Software project",
+      "description": "A project from my development portfolio. More details will be added soon.",
+      "details": "",
+      "tags": [
+        "Software Development"
+      ],
+      "demo": "",
+      "github": "",
+      "featured": false,
+      "accent": "blue",
+      "status": "Details coming soon"
+    },
+    {
+      "name": "CSWFR Conference Room",
+      "category": "Real-time communication",
+      "description": "A browser-based conference room project built around real-time audio/video communication technologies.",
+      "details": "Explores peer-to-peer media connections and real-time signaling using WebRTC-related technologies.",
+      "tags": [
+        "WebRTC",
+        "Socket.IO",
+        "PeerJS",
+        "JavaScript"
+      ],
+      "demo": "",
+      "github": "",
+      "featured": true,
+      "accent": "green",
+      "status": "In development"
+    }
+  ],
+  "contact": {
+    "heading": "Have an idea worth building?",
+    "text": "I’m interested in thoughtful projects, technical conversations, and opportunities to build useful things together."
+  }
+}
