@@ -57,6 +57,23 @@
   ],
   "projects": [
     {
+      "name": "CSWFR Conference Room",
+      "category": "Real-time communication",
+      "description": "A browser-based conference room project built around real-time audio/video communication technologies.",
+      "details": "Explores peer-to-peer media connections and real-time signaling using WebRTC-related technologies.",
+      "tags": [
+        "WebRTC",
+        "Socket.IO",
+        "PeerJS",
+        "JavaScript"
+      ],
+      "demo": "https://conference-production-676141da.up.railway.app/",
+      "github": "",
+      "featured": true,
+      "accent": "green",
+      "status": "In development"
+    },
+    {
       "name": "Hesabgar",
       "category": "AI-powered platform",
       "description": "A messaging platform combined with a suite of digital tools and online examination features, with AI-powered capabilities.",
@@ -169,23 +186,6 @@
       "accent": "blue",
       "status": "Details coming soon"
     },
-    {
-      "name": "CSWFR Conference Room",
-      "category": "Real-time communication",
-      "description": "A browser-based conference room project built around real-time audio/video communication technologies.",
-      "details": "Explores peer-to-peer media connections and real-time signaling using WebRTC-related technologies.",
-      "tags": [
-        "WebRTC",
-        "Socket.IO",
-        "PeerJS",
-        "JavaScript"
-      ],
-      "demo": "",
-      "github": "",
-      "featured": true,
-      "accent": "green",
-      "status": "In development"
-    }
   ],
   "contact": {
     "heading": "Have an idea worth building?",
